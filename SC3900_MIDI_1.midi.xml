@@ -44,6 +44,15 @@
             </control>
             <control>
                 <group>[Channel1]</group>
+                <key>SC3900.wheelTurn</key>
+                <status>0xB0</status>
+                <midino>0x51</midino>
+                <options>
+                    <script-binding/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
                 <key>rate</key>
                 <status>0xB0</status>
                 <midino>0x7A</midino>
